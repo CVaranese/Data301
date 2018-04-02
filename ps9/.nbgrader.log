@@ -1,0 +1,20 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps9/CarsGroupAgg.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps9/TitanicGroupAgg.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps9/Untitled.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/ps9
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps9+2018-02-15 18:28:23.090840 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps9:
+    Expected:
+    	CarsGroupAgg.ipynb: FOUND
+    	TitanicGroupAgg.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/CarsGroupAgg-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/TitanicGroupAgg-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/Untitled-checkpoint.ipynb: EXTRA
+    	CarsGroupAgg.ipynb: OK
+    	TitanicGroupAgg.ipynb: OK
+    	Untitled.ipynb: EXTRA
+[SubmitApp | INFO] Submitted as: data301 ps9 2018-02-15 18:28:23.090840 UTC

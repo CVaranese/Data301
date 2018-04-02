@@ -1,0 +1,38 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/SLOPoliceTidy.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/TrumpClintonTweetsEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/SLOPoliceTidy.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/TrumpClintonTweetsEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/SLOPoliceTidy.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/TrumpClintonTweetsEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/SLOPoliceTidy.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps7/TrumpClintonTweetsEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel
+[SubmitApp | INFO] Source: /home/cvaranese/ps7
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps7+2018-02-08 22:13:09.217051 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps7:
+    Expected:
+    	SLOPoliceTidy.ipynb: FOUND
+    	TrumpClintonTweetsEDA.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/SLOPoliceTidy-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/TrumpClintonTweetsEDA-checkpoint.ipynb: EXTRA
+    	SLOPoliceTidy.ipynb: OK
+    	TrumpClintonTweetsEDA.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps7 2018-02-08 22:13:09.217051 UTC

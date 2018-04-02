@@ -1,0 +1,10 @@
+<td class="table-count table-basic">
+B</td>
+<td class="table-death-sequence table-basic">
+<img class="red" src="/pics/heroes/winston-icon-portrait.png" title="Winston">
+<img class="blue" src="/pics/heroes/zenyatta-icon-portrait.png" title="Zenyatta">
+<img class="blue" src="/pics/heroes/winston-icon-portrait.png" title="Winston">
+<img class="blue" src="/pics/heroes/mccree-icon-portrait.png" title="Mccree">
+<img class="blue" src="/pics/heroes/dva-icon-portrait.png" title="D.Va">
+<img class="blue" src="/pics/heroes/genji-icon-portrait.png" title="Genji">
+<img class="blue" src="/pics/heroes/mccree-icon-portrait.png" title="Mccree">

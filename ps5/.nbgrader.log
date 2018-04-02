@@ -1,0 +1,10 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps5/Checkerboard.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps5/FlightsEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps5/StudentAlcoholEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps5/Tokenization.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel

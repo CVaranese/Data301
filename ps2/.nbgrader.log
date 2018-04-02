@@ -1,0 +1,29 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps2/ProjectEuler4.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps2/ProjectEuler6.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps2/ProjectEuler8.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Must provide path to notebook:
+    nbgrader validate NOTEBOOK
+[ValidateApp | INFO] Validating '/home/cvaranese/ps2/ProjectEuler4.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps2/ProjectEuler6.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps2/ProjectEuler8.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/ps2
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps2+2018-01-18 20:18:13.730615 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps2:
+    Expected:
+    	ProjectEuler4.ipynb: FOUND
+    	ProjectEuler6.ipynb: FOUND
+    	ProjectEuler8.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/ProjectEuler4-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/ProjectEuler6-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/ProjectEuler8-checkpoint.ipynb: EXTRA
+    	ProjectEuler4.ipynb: OK
+    	ProjectEuler6.ipynb: OK
+    	ProjectEuler8.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps2 2018-01-18 20:18:13.730615 UTC

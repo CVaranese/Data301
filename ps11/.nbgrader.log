@@ -1,0 +1,26 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps11/CentralLimitTheorem.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps11/SimpleBootstrap.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps11/SoccerMatches.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps11/SpeedOfLight.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/ps11
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps11+2018-02-27 20:20:08.116042 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps11:
+    Expected:
+    	CentralLimitTheorem.ipynb: FOUND
+    	SimpleBootstrap.ipynb: FOUND
+    	SoccerMatches.ipynb: FOUND
+    	SpeedOfLight.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/CentralLimitTheorem-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/SimpleBootstrap-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/SoccerMatches-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/SpeedOfLight-checkpoint.ipynb: EXTRA
+    	CentralLimitTheorem.ipynb: OK
+    	SimpleBootstrap.ipynb: OK
+    	SoccerMatches.ipynb: OK
+    	SpeedOfLight.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps11 2018-02-27 20:20:08.116042 UTC

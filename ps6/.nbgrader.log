@@ -1,0 +1,27 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps6/CompleteGraphLaplacian.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps6/PeakFinding.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps6/PokemonEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps6/WienerProcess.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | ERROR] Too many arguments
+[SubmitApp | INFO] Source: /home/cvaranese/ps6
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps6+2018-02-01 20:16:36.027504 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps6:
+    Expected:
+    	CompleteGraphLaplacian.ipynb: FOUND
+    	PeakFinding.ipynb: FOUND
+    	PokemonEDA.ipynb: FOUND
+    	WienerProcess.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/CompleteGraphLaplacian-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/PeakFinding-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/PokemonEDA-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/WienerProcess-checkpoint.ipynb: EXTRA
+    	CompleteGraphLaplacian.ipynb: OK
+    	PeakFinding.ipynb: OK
+    	PokemonEDA.ipynb: OK
+    	WienerProcess.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps6 2018-02-01 20:16:36.027504 UTC

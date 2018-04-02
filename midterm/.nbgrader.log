@@ -1,0 +1,38 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/midterm/GapMinderEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/midterm/Midterm.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/midterm/UsingWordVectors.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/midterm
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+midterm+2018-02-08 21:33:36.706837 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment midterm:
+    Expected:
+    	GapMinderEDA.ipynb: FOUND
+    	Midterm.ipynb: FOUND
+    	UsingWordVectors.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/GapMinderEDA-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/Midterm-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/UsingWordVectors-checkpoint.ipynb: EXTRA
+    	GapMinderEDA.ipynb: OK
+    	Midterm.ipynb: OK
+    	UsingWordVectors.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 midterm 2018-02-08 21:33:36.706837 UTC
+[SubmitApp | ERROR] Too many arguments
+[SubmitApp | ERROR] Too many arguments
+[SubmitApp | INFO] Source: /home/cvaranese/midterm
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+midterm+2018-02-08 21:34:17.961313 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment midterm:
+    Expected:
+    	GapMinderEDA.ipynb: FOUND
+    	Midterm.ipynb: FOUND
+    	UsingWordVectors.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/GapMinderEDA-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/Midterm-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/UsingWordVectors-checkpoint.ipynb: EXTRA
+    	GapMinderEDA.ipynb: OK
+    	Midterm.ipynb: OK
+    	UsingWordVectors.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 midterm 2018-02-08 21:34:17.961313 UTC

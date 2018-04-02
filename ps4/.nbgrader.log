@@ -1,0 +1,16 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps4/MoviesVisualization.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps4/TitanicVisualization.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/ps4
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps4+2018-01-25 20:41:41.928476 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps4:
+    Expected:
+    	MoviesVisualization.ipynb: FOUND
+    	TitanicVisualization.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/MoviesVisualization-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/TitanicVisualization-checkpoint.ipynb: EXTRA
+    	MoviesVisualization.ipynb: OK
+    	TitanicVisualization.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps4 2018-01-25 20:41:41.928476 UTC

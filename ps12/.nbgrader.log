@@ -1,0 +1,16 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps12/HatPotential.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps12/MLEPoisson.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/ps12
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps12+2018-03-01 20:09:31.876855 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps12:
+    Expected:
+    	HatPotential.ipynb: FOUND
+    	MLEPoisson.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/HatPotential-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/MLEPoisson-checkpoint.ipynb: EXTRA
+    	HatPotential.ipynb: OK
+    	MLEPoisson.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps12 2018-03-01 20:09:31.876855 UTC

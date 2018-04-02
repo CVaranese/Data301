@@ -1,0 +1,16 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps8/PandasObjects.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps8/SimpsonsMergeConcat.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/ps8
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps8+2018-02-13 20:17:42.326197 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps8:
+    Expected:
+    	PandasObjects.ipynb: FOUND
+    	SimpsonsMergeConcat.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/PandasObjects-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/SimpsonsMergeConcat-checkpoint.ipynb: EXTRA
+    	PandasObjects.ipynb: OK
+    	SimpsonsMergeConcat.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps8 2018-02-13 20:17:42.326197 UTC

@@ -1,0 +1,11 @@
+[ValidateApp | INFO] Validating '/home/cvaranese/ps13/BootstrapLineFitting.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | INFO] Source: /home/cvaranese/ps13
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cvaranese+ps13+2018-03-06 20:12:20.515933 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps13:
+    Expected:
+    	BootstrapLineFitting.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/BootstrapLineFitting-checkpoint.ipynb: EXTRA
+    	BootstrapLineFitting.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps13 2018-03-06 20:12:20.515933 UTC

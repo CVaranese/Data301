@@ -1,0 +1,229 @@
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectora
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectora
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | CRITICAL] Bad config encountered during initialization:
+[ValidateApp | CRITICAL] Unrecognized flag: '--debug'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectora
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectora
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/ProjectEuler1.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/ProjectEuler2.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectora
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 102, in validate_nb
+        super(ValidatorV1, self).validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/common.py", line 35, in validate_nb
+        self.validate_cell(cell)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 99, in validate_cell
+        "Markdown solution cell is not marked as a grade cell: {}".format(cell.source))
+    jsonschema.exceptions.ValidationError: Markdown solution cell is not marked as a grade cell: 
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 102, in validate_nb
+        super(ValidatorV1, self).validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/common.py", line 35, in validate_nb
+        self.validate_cell(cell)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 99, in validate_cell
+        "Markdown solution cell is not marked as a grade cell: {}".format(cell.source))
+    jsonschema.exceptions.ValidationError: Markdown solution cell is not marked as a grade cell: 
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 102, in validate_nb
+        super(ValidatorV1, self).validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/common.py", line 35, in validate_nb
+        self.validate_cell(cell)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 99, in validate_cell
+        "Markdown solution cell is not marked as a grade cell: {}".format(cell.source))
+    jsonschema.exceptions.ValidationError: Markdown solution cell is not marked as a grade cell: 
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectora
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectork
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: basicvectork
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'BasicVectorOps.ipynb'
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/ProjectEuler1.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/ProjectEuler2.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/BasicVectorOps.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/ProjectEuler1.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cvaranese/ps1/ProjectEuler2.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ListApp | INFO] Released assignments:
+[ListApp | INFO] data301 day01
+[ListApp | INFO] data301 day02
+[ListApp | INFO] data301 day03
+[ListApp | INFO] data301 ps1
+[ListApp | INFO] data301 ps2
+[FetchApp | INFO] Source: /srv/nbgrader/exchange/data301/outbound/ps2
+[FetchApp | INFO] Destination: /home/cvaranese/ps1/ps2
+[FetchApp | INFO] Fetched as: data301 ps2

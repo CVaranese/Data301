@@ -1,0 +1,10 @@
+</td>
+<td class="table-heroes ults table-adv" style="display: none;">
+<img src="/pics/heroes/mccree-icon-portrait.png" title="Mccree">
+<img src="/pics/heroes/mercy-icon-portrait.png" title="Mercy">
+</td>
+<td class="table-heroes ults table-adv" style="display: none;">
+<img src="/pics/heroes/mercy-icon-portrait.png" title="Mercy">
+<img src="/pics/heroes/tracer-icon-portrait.png" title="Tracer">
+<img src="/pics/heroes/genji-icon-portrait.png" title="Genji">
+</td>
